@@ -13,5 +13,6 @@ Figuring out which clue(mutation) are important is reading a bunch of pile of li
   </p>
   <a href="https://medium.com/@tanmay.kdm/bridging-genomics-and-literature-for-tailored-cancer-detection-66ca1001598c" style="display: inline-block; margin-top: 20px; background-color: #1a8917; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     Read More
+    
   </a>
 </div>
